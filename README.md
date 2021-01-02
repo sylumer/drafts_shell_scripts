@@ -5,7 +5,22 @@ This repository provides some shell scripts for use with the [Drafts app](https:
 
 # Table of Contents
 
-{To add in after initial upload}
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+	- [Script: `appendtodraft.sh`](#script-appendtodraftsh)
+	- [Script: `opendraft.sh`](#script-opendraftsh)
+	- [Script: `prependtodraft.sh`](#script-aprependtodraftsh)
+	- [Script: `rundraftsaction.sh`](#script-rundraftsactionsh)
+	- [Script: `todraft.sh`](#script-todraftsh)
+	- [Script: `todraftflagged.sh`](#script-todraftflaggedsh)
+- [Additional Information](#additional-information)
+	- [Aliases](#aliases)
+	- [Combined Use Examples](#combined-use-examples)
+- [Credits](#credits)
+- [License](#license)
+- [Legal Disclaimer](#legal-disclaimer)
 
 # Installation
 Available scripts:
@@ -19,8 +34,7 @@ Available scripts:
 
 To use the scripts, simply download and copy them to your Mac and set the excutable bit for the scripts using `chmod`.
 
-- All script files can be found in the `src` folder of this repository.
-- All script files are provided as is. Use at your own risk with no warranty or guarantee.
+All script files can be found in the `src` folder of this repository.
 
 # Usage
 
